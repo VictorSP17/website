@@ -1,4 +1,4 @@
-![profile](profile.jpeg) 
+![profile](images/profile.jpeg) 
 
 ## Studies
 
