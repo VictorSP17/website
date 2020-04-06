@@ -1,15 +1,6 @@
 ---
 layout: page
-title: About
+title: Projects
 ---
 
-This is an about page about this awesome site.
-Hope you love it!
-
-Reasons:
-- its great.
-- its a test.
-
-## Other thoughts
-
-This is great.
+Here I will outline the projects I work on. It will be updated soon.
