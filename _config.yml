@@ -1,10 +1,4 @@
 theme: jekyll-theme-minimal
-title: "Welcome to Victor's homepage!"
-description: "Feel free to send me a message if you want to talk."
-author:
-  name: "Victor Salvia Punsoda"
-  email: "pusavi17@gmail.com"
-  bio: "Passionate about learning."
-  avatar: "Profile.jpeg"
-  github: "[VictorSP17](https://github.com/VictorSP17)"
-  
+title: [Victor Salvia Punsoda]
+description: [Feel free to send me a message if you want to talk.]
+logo: [Profile.jpeg]
