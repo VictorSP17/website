@@ -1,3 +1,5 @@
+![profile](profile.jpeg) 
+
 ## Studies
 
 I am finishing my mathematics degree in [UPC-FME](https://fme.upc.edu/es) (Barcelona) and self-studying data science. I want to learn about the world through data science and solve relevant problems for the social good.
